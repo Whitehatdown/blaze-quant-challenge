@@ -3,7 +3,7 @@
 #Team Member : Uday Joshi
 #Instiute : Indian Institute of Information Technology, Nagpur 
 
-#Note: We have used GPT-3 and other generative AI to simplify the creation process of this APP.
+#Note: We have used GPT-3 and other generative AI to simplify the creation process of this APP. We used Generative AI to make development process faster...
 #      This is done to help us focus more on the analysis part of the project.
 
 # Import necessary libraries
